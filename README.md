@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medicinal Plant Classification Web Application using ResNet50
 
 ## Overview
@@ -202,3 +203,7 @@ Manikanta Reddy
 ## License
 
 This project is developed for educational and research purposes.
+=======
+# Medicinal-plant-detection
+Medicinal Plant Detection using Deep Learning with TensorFlow/Keras. This project uses pretrained CNN models like ResNet50 and VGG16 with transfer learning to classify medicinal plants from leaf images. Includes image preprocessing, data augmentation, model training, evaluation, and Flask-based web deployment.
+>>>>>>> c8498ff481eaec749b4b42b08fb9e0772cfcd1c4
