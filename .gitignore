@@ -11,7 +11,10 @@ __pycache__/
 static/uploads/
 
 .ipynb_checkpoints/
-
+venv/
+Datasets/
+*.h5
+static/uploads/
 .idea/
 .vscode/
 =======
